@@ -1,2 +1,2 @@
-# dlock
+#Digital clock
 digital clock
